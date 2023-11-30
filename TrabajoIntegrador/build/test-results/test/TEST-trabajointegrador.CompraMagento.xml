@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="trabajointegrador.CompraMagento" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-30T12:22:05" hostname="LLANOS" time="28.007">
+  <properties/>
+  <testcase name="actionsForPage" classname="trabajointegrador.CompraMagento" time="28.007"/>
+  <system-out><![CDATA[Contenido: 000035470
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
